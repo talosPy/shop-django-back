@@ -1,0 +1,8 @@
+json code (too lazy to write by myself):
+
+
+{
+    "name": "Sample Product",
+    "price": "29.99",
+    "image": "https://example.com/sample-product-image.jpg"
+}
